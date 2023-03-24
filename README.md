@@ -6,11 +6,6 @@ I am committed to producing quality code and following best practices in softwar
 
 Whether working on a new project or maintaining an existing one, I am passionate about delivering exceptional results and exceeding expectations.
 
-I really believe in developing clear, updatable, and scalable code, and I constantly work to sharpen my abilities by being current with the newest methods and trends in web development.
-
-Having worked in the sector for many years, I have a solid grasp of the software development lifecycle and am knowledgeable about agile approaches, version control, and deployment techniques.
-
-I am always eager to take on new challenges and work with other developers to create, whether it be from start on a new project or optimising an existing one.
 
 <!--
 **nabi786/nabi786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
