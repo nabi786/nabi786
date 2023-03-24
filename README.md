@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,express,mongodb,redux,figma,heroku,ipfs,stackoverflow,twitter,visualstudio,wordpress,aws,instagram,linkedin,netlify,postman,pug)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,express,mongodb,redux,figma,heroku,ipfs,stackoverflow,twitter,visualstudio,wordpress,aws,instagram,linkedin,netlify,postman,pug,hbs)](https://skillicons.dev)
 
 
 
